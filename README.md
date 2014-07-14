@@ -1,4 +1,4 @@
-mindtalk-api-examples
+Mindtalk API Examples
 =====================
 
 Mindtalk API usage examples 
